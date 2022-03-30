@@ -33,7 +33,7 @@ print(text)
 
 # *FinTech Repository*
 
-![Three circular icons that represent a phone, the python logo, and money.](desktop/Usable_Photos/608A4414.png)
+![Three circular icons that represent a phone, the python logo, and money.](Images/ScreenShot.png)
 
 **Welcome to my repository of FinTech projects. Please explore the codebase!**
 
